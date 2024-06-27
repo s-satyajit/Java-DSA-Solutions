@@ -8,8 +8,6 @@ public class Floor {
 
     //return the index: greatest number less than equal to target 
     static int floor(int[] arr, int target) {
-
-        //
         
         if(arr.length == 0)
             return -1;
