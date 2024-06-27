@@ -6,7 +6,7 @@ public class Ceiling{
         System.out.println(ans);
     }
 
-    //return the index : smallest number greater than equal to target
+    //return the index : smallest number greater than equal to target 
     static int ceiling(int[] arr, int target) {
 
         //but if the target element is greater than the greatest number is the array
